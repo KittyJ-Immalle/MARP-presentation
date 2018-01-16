@@ -105,6 +105,8 @@ Dit hangt altijd af van het type.
 
 **Value types**
 
+*voorbeelden:*
+
 bool:	false
 
 byte:	0
@@ -114,8 +116,6 @@ char:	'\0'
 decimal:	0M
 
 double:	0.0D
-
-enum:	The value produced by the expression (E)0, where E is the enum identifier.
 
 float:	0.0F
 
@@ -129,8 +129,6 @@ sbyte:	0
 
 short:	0
 
-struct:	The value produced by setting all value-type fields to their default values and all reference-type fields to null.
-
 uint:	0
 
 ulong:	0
@@ -140,6 +138,8 @@ ushort:	0
 ---
 
 **Reference types**
+
+*voorbeelden:*
 
 String
 
