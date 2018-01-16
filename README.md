@@ -99,7 +99,7 @@ DateTime time = new DateTime();
 
 ### Als je een variabele niet initialiseert welke waarde heeft hij dan?
 
-Dit hangt altijd af van de value type. Dit zijn de default values in C#:
+Dit hangt altijd af van het type.
 
 ---
 
@@ -140,7 +140,6 @@ ushort:	0
 ---
 
 **Reference types**
-Voorbeelden:
 
 String
 
