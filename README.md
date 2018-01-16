@@ -103,7 +103,7 @@ Dit hangt altijd af van de value type. Dit zijn de default values in C#:
 
 ---
 
-**Default values**
+**Value types**
 
 bool:	false
 
@@ -136,3 +136,21 @@ uint:	0
 ulong:	0
 
 ushort:	0
+
+---
+
+**Reference types**
+Voorbeelden:
+
+String
+
+objecten
+
+arrays
+
+lists
+
+Random
+
+
+
